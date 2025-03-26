@@ -231,6 +231,7 @@ font-weight: 600;
 }
 
 
+
 .kaufman {
   position: relative;
   padding-bottom: 90px;
@@ -265,3 +266,53 @@ font-weight: 600;
   margin-right: 0;
   margin-top: 80px;
 }
+
+
+
+.footer {
+  margin: 0 auto 40px;
+  padding-top: 60px;
+  min-height: 350px;
+  background-color: #1f1f1f;
+  color: white;
+}
+
+.footer__columns {
+  margin: 0 auto 0;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.footer__columns_copyright {
+  position: relative;
+  width: 50%;
+}
+
+.logo__place_footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 228px;
+  height: 32px;
+}
+
+.footer__columns_info {
+  width: 10%;
+  margin-left: 0;
+}
+
+.footer__columns_info_heading {
+  
+}
+
+.footer__columns_info_heading-text {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.footer__columns_social {
+  width: 25%;
+  height: 200px;
+}
+
